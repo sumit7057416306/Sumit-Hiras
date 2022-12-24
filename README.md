@@ -1,1 +1,1 @@
-# Sumit-Hiras
+# HTML Gallery Project with footer
